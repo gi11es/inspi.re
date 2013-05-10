@@ -1,0 +1,104 @@
+.time_left {
+	color: #f00;
+}
+
+.nomargin {
+	margin: 0;
+}
+
+#rules {
+	color:#FF0000;
+	font-weight:bold;
+}
+
+#rules a {
+	color: #222;
+}
+
+#competition_description {
+	margin-bottom: 5px;
+}
+
+#entry_picture {
+	float: left;
+	width: 256px;
+	margin-bottom: 10px;
+	margin-left: 342px;
+}
+
+#picture_huge_container {
+	width: 100%;
+	text-align: center;
+}
+
+.entry_preview {
+	margin-left: 2px;
+	float:left;
+}
+
+#ad_compete {
+	margin-top: 8px;
+	margin-bottom: 4px;
+}
+
+.filtered {
+	font-weight: bold;
+}
+
+#community_filter a {
+	color: #444;
+}
+
+#community_filter_title {
+	background-color: #f4f1e5;
+	color: #000;
+	font-size:15px;
+	font-weight:bold;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#community_filter {
+	background-color: #f5f5f5;
+}
+
+.filter_selected {
+	border: 3px solid #f00;
+}
+
+.filter_unselected {
+	border: 3px solid #000;
+}
+
+#icon_filters {
+	background-color:#F5F5F5;
+	margin-top:5px;
+	overflow:hidden;
+	padding-bottom:10px;
+}
+
+.enter_ad_left {
+	float: left;
+	margin-top:10px;
+	width: 336px;
+	clear:both;
+}
+
+#competition_list {
+}
+
+#points_warning {
+	font-weight: bold;
+	color: #f00;
+}
+
+.abovemargin {
+	margin-top: 15px;
+}
+
+.hide_competition {
+	float: right;
+	text-align: right;
+	font-size:12px;
+	font-weight:normal;
+}

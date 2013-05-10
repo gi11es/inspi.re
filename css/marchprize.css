@@ -1,0 +1,36 @@
+.march_prize_intro {
+	font-size: 16px;
+}
+
+.march_prize_intro a {
+	color: #222;
+	font-weight: bold;
+}
+
+.left_image {
+	border: none;
+}
+
+.left_image_link {
+	float: left;
+	margin-bottom: 20px;
+}
+
+#lensbaby, #photowalkthrough {
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 664px;
+	margin-bottom: 20px;
+}
+
+.eligible_grid_picture {
+	margin-right: 3px;
+	margin-top: 3px;
+	float: left;
+}
+
+.eligible_grid {
+	margin-left: 2px;
+	overflow:hidden;
+}

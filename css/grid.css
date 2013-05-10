@@ -1,0 +1,106 @@
+.picture_grid {
+	margin-right: 5px;
+	margin-top: 5px;
+	float: left;
+}
+
+.picture_disqualified {
+	filter:alpha(opacity=40);
+	-moz-opacity:.40;
+	opacity:.40;
+	border: none;
+}
+
+.disqualification_overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 50;
+	border: none;
+}
+
+.disqualified_thumbnail {
+	width: 128px;
+	height: 128px;
+	position: relative;
+}
+
+.grid {
+	margin-left: 6px;
+	overflow:hidden;
+	margin-bottom: 10px;
+}
+
+.small_grid {
+	margin-left: 23px;
+	overflow:hidden;
+	margin-bottom: 10px;
+}
+
+.time_left {
+	color: #f00;
+}
+
+.nomargin {
+	margin: 0;
+}
+
+#rules {
+	color:#FF0000;
+	font-weight:bold;
+	margin-bottom: 10px;
+}
+
+#rules a {
+	color: #222;
+}
+
+#competition_description {
+	margin-bottom: 5px;
+}
+
+.ranked_picture, .rank {
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+.rank {
+	color:#00AA00;
+	font-size:17px;
+	font-weight:bold;
+	height:64px;
+	line-height:64px;
+	text-align:center;
+	width:64px;
+}
+
+.clearboth {
+	clear: both;
+}
+
+.ranked_item {
+	float: left;
+	margin:0;
+	width:732px;
+}
+
+.ranked_item_container {
+	width: 100%;
+}
+
+#ordered_list {
+	overflow: hidden;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.ranked_content {
+	font-size:14px;
+	margin-top:5px;
+	padding-left:4px;
+}
+
+.ranked_item .listing_header .inml_user_name {
+	color: #000;
+}

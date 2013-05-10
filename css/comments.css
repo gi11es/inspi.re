@@ -1,0 +1,66 @@
+.comment {
+    clear: both;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.comment > .picture_small {
+    float: left;
+    margin-right: 8px;
+}
+
+.comment > .profile_picture {
+    float: left;
+    margin-right: 8px;
+}
+
+.comment > .comment_text_contents {
+    float: left;
+    width: 796px;
+}
+
+.comment > .comment_text_contents > .header {
+    background-color: rgb(244, 241, 229);
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.comment > .comment_text_contents > .author_header {
+    background-color: rgb(221, 221, 255);
+}
+
+.comment > .comment_text_contents > .insightful_header {
+    background-color: rgb(204, 255, 204);
+}
+
+.comment > .comment_text_contents > .header a {
+    color: #000;
+}
+
+.comment > .comment_text_contents > .text {
+    margin-top: 5px;
+}
+
+#page_navigation.hanging_menu {
+    margin-bottom: 10px;
+}
+
+#messages_current_amount {
+	float: left;
+}
+
+#messages_change_amount {
+	float: left;
+	margin-left: 5px;
+}
+
+.topmargin {
+    margin-top: 10px;
+}
+
+#comment_list {
+    margin-top: 10px;
+}

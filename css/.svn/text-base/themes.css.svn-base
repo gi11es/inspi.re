@@ -1,0 +1,187 @@
+#community_list {
+	clear: both;
+	margin-top:10px;
+}
+
+#theme_list {
+	clear: both;
+	margin-bottom:1px;
+	overflow: hidden;
+	margin-top: 10px;
+}
+
+.theme_container {
+	overflow: hidden;
+}
+
+#new_theme {
+	margin-top: 10px;
+}
+
+#theme_title_input {
+	border:1px solid #999999;
+	font-family:arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:2px;
+	width:827px;
+}
+
+#theme_description_input {
+	border:1px solid #999999;
+	font-family:arial;
+	font-size:12px;
+	margin-top:5px;
+	padding:2px;
+	width:827px;
+}
+
+#new_theme label {
+	clear:both;
+	float:left;
+	font-size:13px;
+	font-weight:bold;
+	margin-right:7px;
+	margin-top:3px;
+	text-align:right;
+	width:100px;
+}
+
+#new_theme_submit {
+	clear:both;
+	float:left;
+	margin-left:107px;
+	margin-top:10px;
+}
+
+.length_error {
+	background-color:#FFC9EE;
+	border:1px solid #FF72EA;
+	color:#222222;
+	float:left;
+	font-size:11px;
+	margin-left:10px;
+	margin-top:10px;
+	padding:2px;
+	text-align:justify;
+}
+
+.theme_listing {
+	float: left;
+	margin:0 auto 0;
+	width: 807px;
+}
+
+.theme_listing .listing_item {
+	margin: 0;
+}
+
+.theme_vote, .theme_score, .theme_negative_score, .theme_delete {
+	width: 64px;
+	height: 64px;
+	float: right;
+	margin-top: 10px;
+	position: relative;
+}
+
+.theme_vote {
+	background-image:url("../graphics/vote-background.gif");
+}
+
+.theme_score, .theme_negative_score {
+	color:#0a0;
+	font-family:arial;
+	font-size:30px;
+	font-weight:bold;
+	line-height:64px;
+	text-align:center;
+	vertical-align:middle;
+	background-color: #fff;
+	margin-right: 5px;
+}
+
+.theme_negative_score {
+	color:#a00;
+}
+
+.up_vote, .down_vote, .delete {
+	position: absolute;
+	cursor: pointer;
+	border-style: none;
+}
+
+.up_vote {
+	top: 1px;
+	left: 1px;
+}
+
+.down_vote {
+	right: 1px;
+	bottom: 1px;
+}
+
+.theme_listing_description {
+	padding-left: 144px;
+	padding-right:10px;
+	padding-top:5px;
+}
+
+.theme_listing_description a {
+	color: #222;
+}
+
+.community_listing_description {
+	padding-left: 70px;
+	padding-right:10px;
+	padding-top:5px;
+}
+
+.community_listing_description a {
+	color: #222;
+}
+
+#theme_list_header {
+	width: 100%;
+	height: 65px;
+}
+
+#theme_list_header_floater {
+	width: 940px;
+	height: 65px;
+	position: relative;
+	top: 0px;
+	z-index: 500;
+	background-color: #fff;
+}
+
+.theme_header, .theme_subheader {
+	margin-left: 142px;
+	padding: 0;
+}
+
+.abovemargin {
+	margin-top: 15px;
+}
+
+#points_warning {
+	font-weight: bold;
+	color: #f00;
+}
+
+#themes_current_amount {
+	float: left;
+}
+
+#themes_change_amount {
+	float: left;
+	margin-left: 5px;
+}
+
+.number_field {
+    width: 30px;
+    border:1px solid #999999;
+}
+
+.hanging_menu_margin {
+	margin-right: 5px;
+}

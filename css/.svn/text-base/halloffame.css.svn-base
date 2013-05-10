@@ -1,0 +1,94 @@
+.second {
+	float: left;
+}
+
+.third {
+	float: left;
+}
+
+.first {
+	margin-bottom: 2px;
+}
+
+.hof_thumbnail {
+	width: 128px;
+}
+
+.hof_item {
+	clear: both;
+	overflow: hidden;
+}
+
+.hof_item a {
+	color: #000;
+}
+
+.hof_item .inml_user_name a, .hof_item .inml_user_name {
+	color: #000;
+}
+
+.hof_subheader {
+	margin-bottom: 5px;
+}
+
+.no_entries {
+	color: #f00;
+	font-weight: bold;
+}
+
+.rank_first, .rank_second, .rank_third {
+	font-size: 14px;
+	margin-bottom: 2px;
+	padding-left: 136px;
+}
+
+.see_all {
+	margin-top: 10px;
+	padding-left: 136px;
+}
+
+.community_name {
+	margin-bottom: 5px;
+	overflow: hidden;
+}
+
+.community_name a {
+	font-weight: bold;
+	color: #222;
+}
+
+#toggle_view_filter {
+}
+
+#competitions_current_amount {
+	float: left;
+}
+
+#competitions_change_amount {
+	float: left;
+	margin-left: 5px;
+}
+
+.number_field {
+    width: 30px;
+    border:1px solid #999999;
+}
+
+.vote_quantity {
+	font-size: 10px;
+	margin-left: 10px;
+}
+
+.voted_header {
+	background-color: #ddf;
+	color:#000;
+	font-size:15px;
+	font-weight: bold;
+	left:0;
+	padding:2px;
+	top:0;
+}
+
+.voted_header a {
+	color:#222;
+}

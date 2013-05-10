@@ -1,0 +1,307 @@
+#earth_caption {
+	color: #000;
+	font-weight: bold;
+	text-align: center;
+}
+
+#earth {
+	width: 640px;
+	height: 480px;
+}
+
+#FE_InfoWindow {
+	z-index: 5000;
+}
+
+#presentation h1 {
+	color:#EB054D;
+	font-family:georgia;
+	font-size:45px;
+	margin-bottom:10px;
+	margin-top:15px;
+	text-align:center;
+}
+
+#presentation {
+	color: #000;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+#presentation a {
+	color: #222;
+}
+
+.step {
+	color: #EB054D;
+	font-weight: bold;
+}
+
+#steps {
+	font-size: 18px;
+	color: #000;
+	padding:5px 5px 5px 25px;
+}
+
+#steps a {
+	color: #000;
+}
+
+.advice {
+	font-size: 17px;
+	padding-left:8px;
+	padding-right:8px;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.differences {
+	font-size: 13px;
+}
+
+.differences li {
+	margin-bottom: 6px;
+}
+
+.differences li b {
+	color: #EB054D;
+	font-family: georgia;
+	font-size: 16px;
+}
+
+#index_images {
+	margin: 0 auto;
+	width: 884px;
+}
+
+#index1, #index2 {
+	margin-right: 40px;
+	float: left;
+}
+
+#entry_edit_link {
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#entry_edit_link a {
+	color: #f00;
+	font-weight: bold;
+}
+
+.winning_thumbnail {
+	margin-right: 6px;
+	margin-top:6px;
+	float: left;
+}
+
+#winning_entries {
+	float: left;
+	margin-bottom: 10px;
+}
+
+#winning_entries_hint {
+	width: 660px;
+}
+
+#winning_thumbnails {
+	overflow: hidden;
+	width:670px;
+}
+
+#entry_list {
+	margin-top: 10px;
+	clear: both;
+}
+
+#private_message_list {
+}
+
+.abovemargin {
+	margin-top: 15px;
+}
+
+.insightful_header, .insightful_action, .insightful_subheader {
+	background-color: #CCE5EC;
+	background-image: none;
+}
+
+.message_actions {
+	margin-top: 7px;
+	margin-bottom: 7px;
+	font-weight: bold;
+}
+
+.message_actions a {
+	color: #222;
+}
+
+.message_contents {
+	padding-left: 72px;
+	margin-top: 7px;
+}
+
+.message_contents a {
+	color: #222;
+}
+
+#outbox_link, #inbox_link {
+	margin-bottom: 10px;
+	margin-right: 5px;
+}
+
+.member_thumbnail {
+	margin-left: 3px;
+	margin-bottom: 3px;
+	float: left;
+}
+
+#contacts {
+	margin-top: 20px;
+	margin-bottom: 5px;
+	overflow: hidden;
+}
+
+.picture_grid {
+	margin-right: 5px;
+	margin-top: 5px;
+	float: left;
+}
+
+.grid {
+	margin-left: 6px;
+	overflow:hidden;
+	clear: both;
+}
+
+#messages_current_amount, #entries_current_amount, #favorites_current_amount {
+	float: left;
+}
+
+#messages_change_amount, #entries_change_amount, #favorites_change_amount {
+	float: left;
+	margin-left: 5px;
+}
+
+.number_field {
+    width: 30px;
+    border:1px solid #999999;
+}
+
+#statistics a {
+	font-weight: bold;
+	color: #444;
+}
+
+.statistics_percentile {
+	width: 100%;
+	text-align: center;
+}
+
+#statistics_percentile_chart, #statistics_average_chart {
+	margin-bottom: 10px;
+}
+
+.statistics_average {
+	width: 100%;
+	text-align: center;
+}
+
+.chart_explanation {
+	font-weight: bold;
+}
+
+.testimonial {
+	float:left;
+	font-size:16px;
+	margin-left:10px;
+	margin-bottom: 10px;
+	width:310px;
+}
+
+.testimonial_picture {
+	float: left;
+	margin-bottom: 10px;
+}
+
+.delete_private_message {
+	font-weight: normal;
+	margin-left: 5px;
+}
+
+#differences_container {
+float:left;
+width:450px;
+}
+
+#testimonial_header {
+	width: 460px;
+}
+
+#testimonial_container {
+	width: 460px;
+	overflow: hidden;
+	float: right;
+}
+
+.testimonial .inml_user_name a {
+	color: #000;
+}
+
+#testimonials_send a {
+	color: #000;
+}
+
+#prize {
+	color:#EB054D;
+	float:right;
+	font-family:georgia;
+	font-size:50px;
+	height:155px;
+	margin-right:40px;
+	padding-top:35px;
+	text-align:center;
+	width:188px;
+	z-index:50;
+	cursor: pointer;
+	position: relative;	
+}
+
+#prize_description {
+	font-size: 25px;
+}
+
+.real_time_update .inml_user_name, .real_time_update .inml_user_name a, .real_time_update a {
+	color: #000;
+	font-weight: bold;
+}
+
+#real_time_updates {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	height: 106px;
+	overflow: hidden;
+}
+
+.real_time_update {
+	clear: both;
+	overflow: hidden;
+	margin-bottom: 4px;
+	height: 32px;
+}
+
+.real_time_update .picture_tiny {
+	float: left;
+}
+
+.real_time_update_text {
+	float: left;
+	margin-left: 5px;
+	font-size: 14px;
+	overflow:hidden;
+	width:900px;
+}
+
+.bigmargin {
+	margin-bottom: 10px;
+}

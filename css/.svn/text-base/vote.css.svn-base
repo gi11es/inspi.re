@@ -1,0 +1,342 @@
+.time_left {
+	color: #f00;
+}
+
+.nomargin {
+	margin: 0;
+}
+
+#rules {
+	color:#FF0000;
+	font-weight:bold;
+	margin-bottom: 10px;
+}
+
+#competition_description {
+	margin-bottom: 10px;
+}
+
+.entry_preview {
+	margin-left: 2px;
+	float: left;
+}
+
+#ad_vote {
+	margin-top: 8px;
+	margin-bottom: 4px;
+}
+
+#entry_container {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-align:center;
+	width: 940px;
+	height: 600px;
+}
+
+.exif {
+	background-color:#FFE684;
+	border:1px solid #FCCA00;
+	margin: 5px auto 5px;
+	z-index: 100;
+	width:400px;
+	padding: 3px;
+	clear: both;
+	cursor:pointer; 
+}
+
+.vote_repartition {
+	background-color:#FFE684;
+	border:1px solid #FCCA00;
+	z-index: 100;
+	width:400px;
+	padding: 3px;
+	clear: both;
+	margin: 0 auto 10px;
+}
+
+.exif_name {
+	font-weight: bold;
+}
+
+.star {
+	margin-right: 10px;
+	cursor: pointer;
+	display: block;
+	float: left;
+}
+
+#comments_header {
+	overflow: hidden;
+}
+
+#stars {
+	margin: 15px auto 0;
+	width: 587px;
+	height: 70px;
+}
+
+#previous {
+	margin-right: 50px;
+	margin-top: 5px;
+	display: block;
+	float: left;
+	cursor: pointer;
+}
+
+#next {
+	margin-left: 40px;
+	margin-top: 5px;
+	display: block;
+	float: right;
+	cursor: pointer;
+}
+
+#ad_left {
+	float: left;
+}
+
+#ad_right {
+	float: right;
+}
+
+.new_post_text {
+	border:1px solid #CCCCCC;
+	float:left;
+	font-family:arial;
+	font-size:12px;
+	margin-left:0;
+	margin-top:5px;
+	padding:2px;
+	width:684px;
+}
+
+.post_actions {
+	overflow: hidden;
+}
+
+.post_action {
+	float: right;
+	width: 170px;
+	padding-bottom:4px;
+	background-color:#f4f1e5;
+	text-align: center;
+}
+
+.comment_action {
+	float: right;
+	width: 170px;
+	background-color:#f4f1e5;
+	text-align: center;
+	margin-left: 4px;
+	padding-bottom: 4px;
+}
+
+.wide_action {
+	margin-left: 4px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	margin: 0 auto;
+	text-align: center;
+	top: -20px;
+	position: relative;
+}
+
+#comment_actions {
+	overflow:hidden;
+	position:relative;
+	right:8px;
+	top:-30px;
+	width:100%;
+	height: 30px;
+}
+
+.post_action a, .comment_action a {
+	color: #444;
+}
+
+.post_text a {
+	color: #0000;
+}
+
+#post_comment {
+	color: #000;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.post_text {
+	float: left;
+	margin-top:5px;
+	width:684px;
+	color: #000;
+}
+
+.post_text p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#comments {
+	position:relative;
+	top:-20px;
+}
+
+.author_header, .author_action {
+	background-color: #ddf;
+	background-image: none;
+}
+
+#post_please_wait {
+	color: #f00;
+	font-weight: bold;
+}
+
+#actual_stars {
+	overflow: hidden;
+	float: left;
+}
+
+#keyboard_hint {
+	font-size:11px;
+	margin-bottom:10px;
+	text-align:center;
+}
+
+.entry_author_picture {
+	float: left;
+	width: 32px;
+	height: 32px;
+}
+
+.entry_author_name {
+	float: left;
+	margin-left: 10px;
+	width: 750px;
+}
+
+#entry_author {
+	overflow: hidden;
+}
+
+#ad_entry_top {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.insightful_header, .insightful_action, .insightful_subheader {
+	background-color: #cfc;
+	background-image: none;
+}
+
+#transfer_points {
+	background-color:#CCFFCC;
+	border:1px solid #00FF00;
+	padding:5px;
+	position:fixed;
+	vertical-align:middle;
+	width:500px;
+	z-index:700;
+	font-size: 14px;
+}
+
+#insightful_points {
+	width: 50px;
+}
+
+#entry_loader {
+	font-weight:bold;
+	padding-top:250px;
+	text-align:center;
+}
+
+#entry_edit_link, .entry_link {
+	text-align: center;
+	margin-bottom: 5px;
+	margin-top: 10px;
+}
+
+#entry_edit_link a, .entry_link a {
+	color: #333;
+	font-weight: bold;
+}
+
+.competition_list {
+}
+
+.vote_quantity {
+	font-size: 10px;
+	margin-left: 10px;
+}
+
+.voted_header {
+	background-color: #ddf;
+	color:#000;
+	font-size:15px;
+	font-weight: bold;
+	left:0;
+	padding:2px;
+	top:0;
+}
+
+.voted_header a {
+	color:#222;
+}
+
+.favorite, .purchase, .share {
+	float: right;
+}
+
+.icon {
+	cursor: pointer;
+	vertical-align: middle;
+	margin-left: 2px;
+}
+
+#vote_repartition {
+	width: 100%;
+	text-align: center;
+}
+
+#comments_header .inml_user_name, #comments_header .inml_user_name a {
+	color:#000;
+	font-weight:bold;
+}
+
+#entry_disqualified_overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 50;
+	width: 1000px;
+	height: 1000px;
+}
+
+#entry_mold {
+	margin-left:auto;
+	margin-right:auto;
+	overflow:hidden;
+	position:relative;
+	text-align:center;
+	cursor: pointer;
+}
+
+.tinymce_textarea {
+	border:1px solid #CCCCCC;
+	position:relative;
+	float: right;
+	top:-35px;
+	width:855px;
+	height: 150px;
+	margin-right: 8px;
+	font-size:12px;
+	font-family: Arial;
+}
+
+.mceEditor {
+	position:relative;
+	float: right;
+	top:-35px;
+	margin-right: 8px;
+	overflow: hidden;
+}

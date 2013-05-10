@@ -1,0 +1,59 @@
+#registration {
+	margin-top: 25px;
+        
+}
+
+#label_verify_email {
+	margin-bottom: 20px;
+}
+
+#registration label{
+	float: left;
+	clear: both;
+	text-align: right;
+	width: 200px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	font-size: 13px;
+	padding-top: 3px;
+}
+
+.icon{
+   float: left;
+   margin-left: 3px;
+   margin-right: 6px;
+}
+
+.icon img{
+	vertical-align:middle;
+	width:10px; 
+}
+
+.text_field {
+    width: 330px;
+    float: left;
+}
+
+.password_field {
+    width: 130px;
+    float: left;
+}
+
+#username {
+	display: none;
+}
+
+#submitbutton {
+	clear: both;
+	float:left;
+	margin-bottom:10px;
+	margin-left:180px;
+	margin-right:5px;
+}
+
+span.form_error {
+	float: left;
+	padding-top: 4px;
+	font-size: 12px;
+}

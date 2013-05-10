@@ -1,0 +1,71 @@
+#progress_bar {
+	background-image: url('../graphics/progress-bar.gif');
+	height: 21px;
+	left: 0;
+	position: absolute;
+}
+
+#progress_bar_container {
+	width: 256px;
+	height: 21px;
+	background-color: #ddd;
+	position: relative;
+}
+
+#progress_bar_text {
+	line-height:21px;
+	position:absolute;
+	top:0;
+	width:100%;
+	left: 0;
+	z-index:30;
+	color: #000;
+	text-align: center;
+}
+
+#profile_picture_controls {
+	border: 1px solid #FCCA00;
+	border-top: none;
+	color: #222;
+	line-height: 14px;
+	text-align:center;
+	width:254px;
+}
+
+#profile_picture_controls a {
+	color: #222;
+	font-size: 12px;
+}
+
+#picture_loader {
+	filter: alpha(opacity=75);
+	-moz-opacity: .75;
+	opacity: .75;
+	background-color:#333333;
+	color:#FFFFFF;
+	height:146px;
+	left:0;
+	line-height:1;
+	padding-top:110px;
+	position:absolute;
+	top:0;
+	width:256px;
+	z-index:30;
+	text-align:center;
+}
+
+#picture_holder {
+	width: 256px;
+	height: 256px;
+	position: relative;
+}
+
+#upload_alternative {
+	padding-top: 10px;
+	padding-bottom: 3px;
+}
+
+#picture_upload_form {
+	margin-bottom: 0;
+	margin-top: 0;
+}

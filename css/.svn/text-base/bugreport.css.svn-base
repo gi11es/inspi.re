@@ -1,0 +1,62 @@
+.new_post_text {
+	border:1px solid #CCCCCC;
+	float:left;
+	font-family:arial;
+	font-size:12px;
+	margin-left:0;
+	margin-top:5px;
+	padding:2px;
+	width:734px;
+}
+
+.post_action {
+	float: right;
+	width: 120px;
+	padding-bottom:2px;
+	background-color:#f4f1e5;
+	text-align: center;
+}
+
+.post_actions {
+	float: right;
+	width: 120px;
+}
+
+.post_action a {
+	color: #444;
+}
+
+.post_text a, .post_truncated_text a, .recent_post a {
+	color: #444;
+}
+
+#new_post .post {
+	margin-top: 10px;
+}
+
+#length_errors {
+	overflow: hidden;
+	margin-left: 65px;
+}
+
+.length_error {
+	background-color: #FFC9EE;
+	border: 1px solid #FF72EA;
+	color: #222;
+	text-align: justify;
+	font-size: 11px;
+	padding: 2px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+#report_success {
+	margin-top: 10px;
+}
+
+#bug_report_header {
+	font-weight: bold;
+	color: #f00;
+	font-size: 15px;
+}

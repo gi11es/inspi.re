@@ -1,0 +1,13 @@
+#bring_back_current_amount {
+	float: left;
+}
+
+#bring_back_change_amount {
+	float: left;
+	margin-left: 5px;
+}
+
+.number_field {
+    width: 30px;
+    border:1px solid #999999;
+}

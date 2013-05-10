@@ -1,0 +1,105 @@
+.share_link {
+	float: left;
+	margin-right: 44px;
+}
+
+.share_link a img {
+	border-style: none;
+}
+
+.nomargin {
+	margin-right: 0;
+}
+
+#share_links {
+	overflow: hidden;
+}
+
+#facebook_fan {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	clear: both;
+	font-size: 14px;
+}
+
+#facebook_fan a {
+	color: #222;
+}
+
+#invite_text_input, #postcard_text_input {
+	padding:2px;
+	width:800px;
+	height: 70px;
+	font-family:arial;
+	font-size:12px;
+	border:1px solid #999999;
+	margin-top:5px;
+}
+
+#email_list_input {
+	padding:2px;
+	width:800px;
+	height:50px;
+	font-family:arial;
+	font-size:12px;
+	border:1px solid #999999;
+	margin-top:5px;
+}
+
+#address_input {
+	padding:2px;
+	width:400px;
+	height:80px;
+	font-family:arial;
+	font-size:12px;
+	border:1px solid #999999;
+	margin-top:5px;
+}
+
+
+#new_invite {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+#new_postcard {
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+#new_invite label, #new_postcard label {
+	clear:both;
+	float:left;
+	font-size:13px;
+	font-weight:bold;
+	margin-right:7px;
+	margin-top:3px;
+	text-align:right;
+	width:120px;
+}
+
+#new_invite_submit, #new_postcard_submit {
+	clear: both;
+	float: left;
+	margin-left: 120px;
+	margin-top: 10px;
+}
+
+.length_error {
+	background-color: #FFC9EE;
+	border: 1px solid #FF72EA;
+	color: #222;
+	text-align: justify;
+	font-size: 11px;
+	padding: 2px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+#affiliate_link {
+	font-size: 25px;
+	width: 550px;
+	text-align: center;
+}

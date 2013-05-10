@@ -1,0 +1,29 @@
+.quality_name {
+	font-weight: bold;
+	font-size: 25px;
+	margin-right: 5px;
+}
+
+#quality_options, #size_options, #shipping_options {
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+
+.shipping_name {
+	font-weight: bold;
+	font-size: 16px;
+	margin-right: 5px;
+}
+
+#order {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+#submit {
+	font-size: 15px;
+}
+
+.abovemargin {
+	margin-top: 5px;
+}

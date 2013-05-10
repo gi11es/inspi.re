@@ -1,0 +1,220 @@
+#information_form {
+	margin-left:10px;
+	margin-bottom:10px;
+	width:670px;
+	float: left;
+}
+
+#left_side {
+	float: left;
+	text-align:center;
+	position: relative;
+	margin-bottom:5px;
+}
+
+#information_form label{
+	float: left;
+	clear: both;
+	text-align: right;
+	width: 140px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	font-size: 13px;
+	padding-top: 3px;
+}
+
+.text_field {
+    width: 330px;
+    float: left;
+    border:1px solid #999999;
+}
+
+.url_field {
+    border:1px solid #999999;
+    width:170px;
+    margin-left:1px;
+}
+
+#url_prefix {
+	font-weight: bold;
+}
+
+.number_field {
+    width: 30px;
+    border:1px solid #999999;
+}
+
+#save_changes {
+	clear: both;
+}
+
+#member_since {
+	margin-bottom: 10px;
+}
+
+#member_since a {
+	font-weight: bold;
+	color: #222;
+}
+
+#name_field {
+	height:25px;
+	margin-bottom:3px;
+	overflow:hidden;
+}
+
+#email_field, #description_field, #custom_url_field {
+	overflow:hidden;
+}
+
+#description {
+	width: 513px;
+	height: 150px;
+	font-family: Arial;
+	font-size: 12px;
+	overflow: visible;
+}
+
+#email {
+	padding-top: 4px;
+}
+
+#email a {
+	color: #222;
+	font-weight: bold;
+}
+
+#name {
+	width: 250px;
+}
+
+.icon {
+	margin-left:4px;
+	vertical-align:middle;
+}
+
+.discussion_board_preference {
+	margin-bottom: 3px;
+}
+
+.discussion_board_preference a {
+	font-weight: bold;
+	color: #222;
+}
+
+.preference_header {
+	margin-top: 10px;
+}
+
+#length_errors {
+	overflow: hidden;
+	margin-left: 100px;
+}
+
+.length_error {
+	background-color: #FFC9EE;
+	border: 1px solid #FF72EA;
+	color: #222;
+	text-align: justify;
+	font-size: 11px;
+	padding: 2px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+#new_email {
+	margin-left: 5px;
+	width: 250px;
+}
+
+#email_unavailable {
+	margin-left: 5px;
+	font-weight: bold;
+	color: #f00;
+}
+
+#submitbutton {
+	margin-top: 3px;
+}
+
+#email_change {
+	margin-bottom: 20px;
+}
+
+#markup_value {
+	border:1px solid #000000;
+	text-align:right;
+	width:30px;
+}
+
+#balance_summary a {
+	color: #222;
+	font-weight: bold;
+}
+
+#premium_amount, #paypal_amount {
+	border:1px solid #000000;
+	font-size:18px;
+	width:80px;
+}
+
+#paypal_address {
+	border:1px solid #000000;
+	font-size:18px;
+	width:300px;
+}
+
+.balance_transfer {
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+#premium_amount_submit, #paypal_amount_submit {
+	float: left;
+	font-size: 15px;
+}
+
+#paypal_amount_submit {
+	margin-bottom: 5px;
+}
+
+.transfer_error {
+	background-color:#FFC9EE;
+	border:1px solid #FF72EA;
+	color:#222222;
+	float:left;
+	font-size:11px;
+	margin-left:10px;
+	padding:2px;
+	text-align:justify;
+}
+
+.premium_code {
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
+#custom_url_container {
+	height: 22px;
+	line-height: 22px;
+	overflow: hidden;
+	float: left;
+}
+
+#custom_url_valid, #custom_url_invalid, #custom_url_progress {
+	margin-left: 4px;
+	margin-top: 5px;
+	float: left;
+	color: #f00;
+	font-weight: bold;
+}
+
+#custom_url_invalid, #custom_url_progress {
+	margin-top: 3px;
+}
+
+#custom_url_invalid img {
+	vertical-align: middle;
+}
